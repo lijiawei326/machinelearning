@@ -3,4 +3,4 @@
 
 ## 特征值法
 -二维散点图
-![](./2d_with_eig.png)
+![image](2d_with_eig.png)
